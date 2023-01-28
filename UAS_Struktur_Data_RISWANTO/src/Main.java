@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import  static soal1.no1.getNo1;
+import  static soal1.soal1.getsoal1;
 
 public class Main {
     public static void main(String[] args) throws Exception {
