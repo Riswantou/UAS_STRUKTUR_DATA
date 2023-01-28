@@ -1,5 +1,7 @@
 import java.util.Scanner;
 import  static soal1.soal1.getsoal1;
+import  static soal2.soal2.getsoal2;
+import  static soal3.soal3.getsoal3;
 
 public class Main {
     public static void main(String[] args) throws Exception {
