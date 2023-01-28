@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class soal2 {
-    public static void getNo2() {
+    public static void getsoal2() {
         Scanner inputanJmlMahasiswa = new Scanner(System.in);
 
         List<Mahasiswa> mahasiswaList = new ArrayList<>();
